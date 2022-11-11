@@ -8,4 +8,4 @@
 
 ### Demo of the web Applications
 
-![App pictures](./Assets/appDemo.png)
+![App pictures](./Assets/appPics.png)
